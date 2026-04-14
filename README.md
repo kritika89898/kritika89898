@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kritika 👋
 
-<!--
-**kritika89898/kritika89898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a third-year BTech student interested in C++, DSA, web development, and machine learning.
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- Python
+- HTML, CSS, JavaScript, React
+- MySQL
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Interview Prep Tracker
+- Cineverse
+- Big Market Sales Prediction
+
+## Currently Learning
+- Data Structures and Algorithms
+- Machine Learning
+- Deep Learning
+
+## Connect with Me
+- LinkedIn: [](https://linkedin.com/in/kritika-bhanaria-434242285/)
+- Portfolio: [](https://kritika89898.github.io/Kritika_Portfolio/)
