@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Kritika, a third-year BTech student passionate about software development, data structures and algorithms, web development, and machine learning. I enjoy building practical projects, improving my problem-solving skills, and learning technologies that help me grow as a developer. I’m currently focused on strengthening my fundamentals and creating impactful projects that reflect both my technical skills and creativity.<br>
+Hi, I’m Kritika, a final-year BTech student passionate about software development, data structures and algorithms, web development, and machine learning. I enjoy building practical projects, improving my problem-solving skills, and learning technologies that help me grow as a developer. I’m currently focused on strengthening my fundamentals and creating impactful projects that reflect both my technical skills and creativity.<br>
 
 
 ## 🌐 Socials:
